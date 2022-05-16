@@ -6,9 +6,11 @@
 
 
 Hello! My name is **Facundo**, I'm a _FrontEnd developer_ <br> 
-I am currently training at CoderHouse in the _BackEnd_ course to complete my _Fullstack._<br>
-I know how to use **HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, React JS**
-I prefer to use Visual Studio Code as my text editor
+I am currently studying at CoderHouse in the _BackEnd_ course to complete my _Fullstack._<br>
+My best knowledges are in **React JS, HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, JSON, Express**
+
+I am very open to do some volunteer work to reinforce my knowledge and gain more experience as a developer, so do not hesitate in contact me if you have any questions or proposals.
+
 
 
 <table>
