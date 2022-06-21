@@ -74,6 +74,18 @@ I am very open to do some volunteer work to reinforce my knowledge and gain more
 	  <span><strong>JSON</strong></span><br><br><br>
 	  <img height="100px" src="https://cdn.svgporn.com/logos/json.svg">
       </td>
+      <td width="25%" align="center">
+	  <span><strong>My SQL</strong></span><br><br><br>
+	  <img height="100px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+	  <span><strong>MONGO DB</strong></span><br><br><br>
+	  <img height="100px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+	  <span><strong>WEB SOCKETS</strong></span><br><br><br>
+	  <img height="100px" src="https://cdn.svgporn.com/logos/websocket.svg">
+      </td>
     </tr>
 
   </tbody>
