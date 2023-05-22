@@ -5,12 +5,9 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-Hello! My name is **Facundo**, I'm a _FrontEnd developer_ <br> 
-I am currently studying at CoderHouse in the _BackEnd_ course to become a _Fullstack_ developer.<br>
+Hello! My name is **Facundo**, I'm a _Full Stack developer_ <br>
+I am currently looking for a job as Junior Developer, if my skills are similar of what you are looking for don't hesitate in contacting me!. <br>
 My best knowledges are in **React JS, Node JS, HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, JSON, Express**
-
-I am very open to do some volunteer work to reinforce my knowledge and gain more experience as a developer, so do not hesitate in contact me if you have any questions or proposals.
-
 
 
 <table>
