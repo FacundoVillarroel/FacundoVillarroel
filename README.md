@@ -69,7 +69,7 @@ React • React Native • Node.js • Express • Firebase • Redux Toolkit �
 ### 🧠 Tu Mundo Interior
 
 <p align="center">
-  <img src="./assets/tumundointerior-preview.png" alt="Tu Mundo Interior" width="900"/>
+  <img src="assets/tumundointerior-preview.png" alt="Tu Mundo Interior" width="900"/>
 </p>
 
 Website and appointment booking platform developed for a real client.
@@ -87,7 +87,7 @@ React • Node.js • Firebase • Google Calendar API
 ### 🎨 DWORD
 
 <p align="center">
-  <img src="./assets/dword-preview.png" alt="DWORD" width="900"/>
+  <img src="assets/dword-preview.png" alt="DWORD" width="900"/>
 </p>
 
 Marketing website developed in collaboration with another frontend developer and two UX/UI designers.
