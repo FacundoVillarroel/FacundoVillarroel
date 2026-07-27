@@ -46,13 +46,21 @@ Git · GitHub · Docker · Postman · Vercel · Netlify
 
 ### 🚀 Clockaburra
 
+A Full Stack employee management platform designed as a potential SaaS product, focused on scalable architecture, maintainability and reusable business logic.
+
+#### Product Demo
+
+Explore the complete Clockaburra ecosystem in this short product walkthrough.
+
+🎥 [Product Walkthrough](https://www.youtube.com/watch?v=IoPG2P4DQTI)
+
 <p align="center">
   <img src="assets/login_preview.png" alt="Login" width="250"/>
   <img src="assets/dashboard_preview.png" alt="Dashboard" width="250"/>
   <img src="assets/shifts_preview.png" alt="Shifts" width="250"/>
 </p>
 
-A Full Stack employee management platform designed as a potential SaaS product, focused on scalable architecture, maintainability and reusable business logic.
+
 
 The project consists of three independent applications sharing the same backend:
 
