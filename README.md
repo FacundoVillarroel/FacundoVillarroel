@@ -52,7 +52,7 @@ A Full Stack employee management platform designed as a potential SaaS product, 
 
 Explore the complete Clockaburra ecosystem in this short product walkthrough.
 
-🎥 [Product Demo](https://www.youtube.com/watch?v=IoPG2P4DQTI)
+🎥 [Product Demo](https://youtu.be/x4V3FZvUkHM)
 
 <p align="center">
   <img src="assets/login_preview.png" alt="Login" width="250"/>
